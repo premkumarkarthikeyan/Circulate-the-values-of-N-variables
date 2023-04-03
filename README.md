@@ -56,3 +56,6 @@ def circulate():
 ![1b python](https://user-images.githubusercontent.com/119476243/229408110-09b4934c-484f-4063-9c14-81461c7221fa.png)
 
 ## Result:
+
+The output for circulate the values of n variables is successfull
+
